@@ -1,4 +1,4 @@
 test
 ====
 
-A test repo to get started on github
+A repo to experiments with Github an Git commands!
